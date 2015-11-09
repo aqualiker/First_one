@@ -1,2 +1,1 @@
-Print "Bike rules!"
 Print "Hello world"
