@@ -1,9 +1,0 @@
-print "What's up'
-print "HOhoho"
-asdf
-sdf
-
-sdf
-ds
-f
-sdf
