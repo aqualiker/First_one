@@ -1,0 +1,4 @@
+print("Good night")
+to all
+
+public sym = "#";
