@@ -2,3 +2,4 @@ Print "Bike rules!"
 Print "Hello world"
 public int z = 10;
 no num
+print(all aliens hello)
