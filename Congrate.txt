@@ -1,9 +1,7 @@
 Print "Bike rules!";
 Print "Hello world";
 public int z = 10;
-<<<<<<< HEAD
 no num;
 print(all aliens hello)
 I will be blasting all the humans in the world!
 no num;
->>>>>>> master
